@@ -17,15 +17,15 @@ const About = () => {
           La mia passione per la tecnologia, unita alla voglia di rimettermi in gioco,
           mi hanno spinto ad approcciare il mondo della programmazione web,
           che in breve tempo è diventata la mia passione.
-          Trovo entusiasmante poter dar vita a nuovi progetti, mettendo in pratica le mie competenze
-          e acquisendone di nuove. Mi ritengo una persona meticolosa, attenta al dettaglio e in grado
-          di focalizzarsi efficacemente sugli obiettivi da raggiungere, inoltre la mia esperienza nel mondo
-          del commercio mi ha formato dal punto di vista dell'attenzione al cliente e alle sue esigenze.
         </p>
 
         <br />
 
         <p className="text-xl">
+          Trovo entusiasmante poter dar vita a nuovi progetti, mettendo in pratica le mie competenze
+          e acquisendone di nuove. Mi ritengo una persona meticolosa, attenta al dettaglio e in grado
+          di focalizzarsi efficacemente sugli obiettivi da raggiungere, inoltre la mia esperienza nel mondo
+          del commercio mi ha formato dal punto di vista dell'attenzione al cliente e alle sue esigenze.
         </p>
       </div>
     </div>
