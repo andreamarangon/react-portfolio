@@ -14,23 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          La mia passione per la tecnologia, unita alla voglia di rimettermi in gioco,
+          mi hanno spinto ad approcciare il mondo della programmazione web,
+          che in breve tempo è diventata la mia passione.
+          Trovo entusiasmante poter dar vita a nuovi progetti, mettendo in pratica le mie competenze
+          e acquisendone di nuove. Mi ritengo una persona meticolosa, attenta al dettaglio e in grado
+          di focalizzarsi efficacemente sugli obiettivi da raggiungere, inoltre la mia esperienza nel mondo
+          del commercio mi ha formato dal punto di vista dell'attenzione al cliente e alle sue esigenze.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
         </p>
       </div>
     </div>
