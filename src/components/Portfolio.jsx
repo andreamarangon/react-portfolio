@@ -1,6 +1,7 @@
 import React from "react";
 import reactWeatherApp from "../assets/portfolio/reactWeatherApp.png";
 import boolgram from "../assets/portfolio/boolgram.png";
+import nextjsPhoto from "../assets/portfolio/nextjsPhoto.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -15,6 +16,12 @@ const Portfolio = () => {
       src: boolgram,
       hrefDemo: "https://boolgram-am.netlify.app",
       hrefCode: "https://github.com/andreamarangon/boolgram",
+    },
+    {
+      id: 3,
+      src: nextjsPhoto,
+      hrefDemo: "https://nextjs-photo.netlify.app/",
+      hrefCode: "https://github.com/andreamarangon/nextjs-photo",
     },
   ];
 
