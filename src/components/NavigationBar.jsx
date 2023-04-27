@@ -24,14 +24,14 @@ const NavigationBar = () => {
     },
     {
       id: 5,
-      link: "contattami",
+      link: "contatti",
     },
   ];
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div>
-        <h1 className="text-5xl font-signature ml-2">Andrea Marangon</h1>
+        <h1 className="text-4xl lg:text-5xl font-signature ml-2">Andrea Marangon</h1>
       </div>
 
       <ul className="hidden md:flex">

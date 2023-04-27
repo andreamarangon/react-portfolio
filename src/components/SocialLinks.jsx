@@ -41,7 +41,7 @@ const SocialLinks = () => {
           CV <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/cv-andrea-marangon.pdf",
       style: "rounded-br-md",
       download: true,
     },
