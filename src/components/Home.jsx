@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             Ho 2 anni di esperienza nello sviluppo di software.
-            Attualmente mi piace lavorare su applicazioni web utilizzando tecnologie come
+            Attualmente mi piace lavorare su siti e applicazioni web utilizzando tecnologie come
             React e Tailwind.
           </p>
 

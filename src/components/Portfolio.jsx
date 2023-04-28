@@ -13,15 +13,15 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: boolgram,
-      hrefDemo: "https://boolgram-am.netlify.app",
-      hrefCode: "https://github.com/andreamarangon/boolgram",
-    },
-    {
-      id: 3,
       src: nextjsPhoto,
       hrefDemo: "https://nextjs-photo.netlify.app/",
       hrefCode: "https://github.com/andreamarangon/nextjs-photo",
+    },
+    {
+      id: 3,
+      src: boolgram,
+      hrefDemo: "https://boolgram-am.netlify.app",
+      hrefCode: "https://github.com/andreamarangon/boolgram",
     },
   ];
 
